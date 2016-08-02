@@ -1,2 +1,6 @@
 # Hello-World
-My first repository
+
+
+Hi There!
+
+Alvin Here, I love programming!
